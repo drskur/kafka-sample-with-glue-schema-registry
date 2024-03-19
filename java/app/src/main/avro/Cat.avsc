@@ -1,0 +1,9 @@
+{  
+  "name": "Cat",  
+  "namespace": "example",  
+  "type": "record",  
+  "fields" : [  
+    {"name": "breed", "type": "Breed"},  
+    {"name": "name", "type": "string", "default": ""}  
+  ]  
+}
